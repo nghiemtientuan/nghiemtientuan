@@ -1,4 +1,4 @@
-<h2> (Tuanlinhchi) 🙏🏻, I'm Nghiem Tien Tuan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> (Tuanlinhchi), I'm Nghiem Tien Tuan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web developer at <a href="https://sun-asterisk.vn/">Sun *</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -8,6 +8,7 @@
 ```javascript
 const aboutMe = {
     pronouns: "He" | "Him",
+    university: "Ha Noi university of science and technology (Hust)",
     code: ["Javascript", "Typescript", "Python", "php"],
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
