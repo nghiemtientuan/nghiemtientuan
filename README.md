@@ -13,6 +13,7 @@ const aboutMe = {
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
         frontEnd: {
+            html: ["html5"],
             js: ["Reactjs"],
             css: ["bootstrap"]
         },
@@ -23,9 +24,39 @@ const aboutMe = {
         },
         devOps: ["Docker🐳", "Apache"],
         databases: ["MySql"],
-        misc: ["Socket.IO"]
+        misc: ["Socket.IO"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
+    experiences: [
+        {
+            name: "Sun *",
+            startDate: "06/2019",
+            endDate: now(),
+            job: "web developer",
+        },
+        {
+            name: "VJ-soft",
+            startDate: "08/2018",
+            endDate: "06/2019",
+            job: "web developer",
+        },
+        {
+            name: "fsoft",
+            startDate: "06/2018",
+            endDate: "08/2018",
+            job: "open intership",
+        },
+    ],
+    ranks: {
+        tryHackMe: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
+        codeSignal: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
+    },
+    share: {
+        viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
+    },
+    netWorks: {
+        fb: [Nghiem Tuan](https://www.facebook.com/nghiemtientuantnt),
+    },
 };
 ```
 
