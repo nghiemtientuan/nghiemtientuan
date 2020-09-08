@@ -9,7 +9,7 @@
 const aboutMe = {
     pronouns: "He" | "Him",
     university: "Ha Noi university of science and technology (Hust)",
-    code: ["Javascript", "Typescript", "Python", "php"],
+    code: ["php", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
         frontEnd: {
