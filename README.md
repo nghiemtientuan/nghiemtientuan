@@ -29,36 +29,3 @@ const aboutMe = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning
-🌆 Daytime
-🌃 Evening
-🌙 Night
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Ho_Chi_Minh
-
-💬 Languages: 
-PHP
-JavaScript
-Python
-
-🔥 Editors: 
-PhpStorm
-Visual Studeio Code
-
-💻 Operating Systems: 
-Windows, Ubuntu, Kali
-
-```
-<!--END_SECTION:waka-->
