@@ -6,10 +6,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const aboutMe = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
         frontEnd: {
             js: ["Reactjs"],
@@ -21,7 +21,7 @@ const anmol = {
             python: ["django"]
         },
         devOps: ["Docker🐳", "Apache"],
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql"],
         misc: ["Socket.IO"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
@@ -35,10 +35,10 @@ const anmol = {
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+🌞 Morning
+🌆 Daytime
+🌃 Evening
+🌙 Night
 
 ```
 
@@ -46,24 +46,19 @@ const anmol = {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Asia/Ho_Chi_Minh
 
 💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+PHP
+JavaScript
+Python
 
 🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+PhpStorm
+Visual Studeio Code
 
 💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+Windows, Ubuntu, Kali
 
 ```
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
