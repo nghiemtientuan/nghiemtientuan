@@ -48,7 +48,7 @@ const aboutMe = {
         },
     ],
     ranks: {
-        tryHackMe - Ranks 21059: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
+        tryHackMe - Rank 21059: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
         codeSignal: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
     },
     share: {
