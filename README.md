@@ -48,8 +48,8 @@ const aboutMe = {
         },
     ],
     ranks: {
-        tryHackMe - Rank 21059: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
-        codeSignal: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
+        tryHackMe - Rank 18370: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
+        codeSignal - Rank 20: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
     },
     share: {
         viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
