@@ -30,9 +30,15 @@ const aboutMe = {
     architecture: ["Progressive web applications", "Single page applications"],
     experiences: [
         {
+            name: "TDA VN",
+            startDate: "04/2021",
+            endDate: now(),
+            job: "web developer",
+        },
+        {
             name: "Sun *",
             startDate: "06/2019",
-            endDate: now(),
+            endDate: "04/2021",
             job: "web developer",
         },
         {
