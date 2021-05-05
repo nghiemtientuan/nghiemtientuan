@@ -23,7 +23,7 @@ const aboutMe = {
             js: ["node", "express"],
             python: ["django"]
         },
-        devOps: ["Docker🐳", "Apache"],
+        devOps: ["Docker🐳", "Apache", "CICD"],
         databases: ["MySql"],
         misc: ["Socket.IO"],
     },
