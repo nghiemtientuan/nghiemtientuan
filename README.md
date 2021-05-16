@@ -81,6 +81,9 @@ const aboutMe = {
         viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
         hashnode: [tuanlinhchi.hashnode.dev](https://tuanlinhchi.hashnode.dev),
     },
+    certifications: [
+        [Responsive Web Design](https://www.freecodecamp.org/certification/tuanlinhchi/responsive-web-design),
+    ],
     netWorks: {
         fb: [Nghiem Tuan](https://www.facebook.com/nghiemtientuantnt),
     },
