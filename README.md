@@ -9,20 +9,25 @@
 ```javascript
 const aboutMe = {
     pronouns: "He" | "Him",
-    university: "Ha Noi university of science and technology (Hust)",
-    code: ["php", "Javascript", "Python"],
+    country: "Viet Nam",
+    city: "Ha Noi",
+    languages: ["Vietnamese", "English"],
+    graduatedFrom: "Ha Noi university of science and technology (Hust)",
+    code: ["PHP", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
         frontEnd: {
             html: ["html5"],
             js: ["Reactjs"],
-            css: ["bootstrap"]
+            css: ["bootstrap"],
+            designs: ["antd"],
         },
         backEnd: {
             php: ["laravel"],
             js: ["node", "express"],
-            python: ["django"]
+            python: ["django"],
         },
+        os: ["Windown", "Ubuntu", "Kali"],
         devOps: ["Docker🐳", "Apache", "CICD"],
         databases: ["MySql"],
         misc: ["Socket.IO"],
@@ -54,13 +59,27 @@ const aboutMe = {
             job: "open intership",
         },
     ],
+    freeProjects: [
+        {
+            name: "BKEdx",
+            openSourse: "Open edX",
+            tags: ["Education", "Deployment"]
+        },
+        {
+            name: "Ubuntu setting Benchmark",
+            language: "Python",
+            tags: ["Application", "Build", "Code", "CIS Ubuntu Linux"]
+        },
+    ],
+    blog: [nghiemtuan.name.vn](http://nghiemtuan.name.vn),
     ranks: {
-        tryHackMe - Rank 41640: [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
+        tryHackMe - Rank 37750 (16/05/2021): [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
         hackerRank - Rank 386477: [tuanlinhchi](https://www.hackerrank.com/tuanlinhchi),
         codeSignal - Level 20: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
     },
     share: {
         viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
+        hashnode: [tuanlinhchi.hashnode.dev](https://tuanlinhchi.hashnode.dev),
     },
     netWorks: {
         fb: [Nghiem Tuan](https://www.facebook.com/nghiemtientuantnt),
