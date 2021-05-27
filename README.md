@@ -18,7 +18,7 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             html: ["html5"],
-            js: ["Reactjs"],
+            js: [ES6, "Reactjs", "Nextjs"],
             css: ["bootstrap"],
             designs: ["antd"],
         },
@@ -83,6 +83,7 @@ const aboutMe = {
     },
     certifications: [
         [Responsive Web Design](https://www.freecodecamp.org/certification/tuanlinhchi/responsive-web-design),
+        [JavaScript Algorithms](https://www.freecodecamp.org/certification/tuanlinhchi/javascript-algorithms-and-data-structures),
     ],
     netWorks: {
         fb: [Nghiem Tuan](https://www.facebook.com/nghiemtientuantnt),
