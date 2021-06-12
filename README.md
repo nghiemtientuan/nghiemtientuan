@@ -13,6 +13,7 @@ const aboutMe = {
     city: "Ha Noi",
     languages: ["Vietnamese", "English"],
     graduatedFrom: "Ha Noi university of science and technology (Hust)",
+    studying: "a master's degree at Ha Noi university of science and technology (Hust)",
     code: ["PHP", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
@@ -20,7 +21,7 @@ const aboutMe = {
             html: ["html5"],
             js: [ES6, "Reactjs", "Nextjs"],
             css: ["bootstrap"],
-            designs: ["antd"],
+            designs: ["antd", "Material-ui"],
         },
         backEnd: {
             php: ["laravel"],
@@ -30,7 +31,7 @@ const aboutMe = {
         os: ["Windown", "Ubuntu", "Kali"],
         devOps: ["Docker🐳", "Apache", "CICD"],
         databases: ["MySql"],
-        misc: ["Socket.IO"],
+        misc: ["Socket.IO", "Auth0"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     experiences: [
@@ -84,9 +85,11 @@ const aboutMe = {
     certifications: [
         [Responsive Web Design](https://www.freecodecamp.org/certification/tuanlinhchi/responsive-web-design),
         [JavaScript Algorithms](https://www.freecodecamp.org/certification/tuanlinhchi/javascript-algorithms-and-data-structures),
+        [Front End Libraries](https://www.freecodecamp.org/certification/tuanlinhchi/front-end-libraries),
     ],
     netWorks: {
-        fb: [Nghiem Tuan](https://www.facebook.com/nghiemtientuantnt),
+        fb: [Tuan Linh Chi](https://www.facebook.com/nghiemtientuantnt),
+        instagram: [tuan_linh_chi](https://www.instagram.com/tuan_linh_chi),
     },
 };
 ```
