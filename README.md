@@ -1,8 +1,9 @@
 <h2> (Tuanlinhchi), I'm Nghiem Tien Tuan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web developer at <a href="https://sun-asterisk.vn/">Sun *</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="190">
+<p><em>Web developer at <a href="https://tda.company">TDA Viet Nam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>Đem ước mơ và hoài bão để tạo ra nhiều giá trị sáng tạo cho một thế giới awesome!</p>
+<p>Còn thở là còn học.</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -86,6 +87,7 @@ const aboutMe = {
         [Responsive Web Design](https://www.freecodecamp.org/certification/tuanlinhchi/responsive-web-design),
         [JavaScript Algorithms](https://www.freecodecamp.org/certification/tuanlinhchi/javascript-algorithms-and-data-structures),
         [Front End Libraries](https://www.freecodecamp.org/certification/tuanlinhchi/front-end-libraries),
+        [Scientific Computing with Python](https://www.freecodecamp.org/certification/tuanlinhchi/scientific-computing-with-python-v7),
     ],
     netWorks: {
         fb: [Tuan Linh Chi](https://www.facebook.com/nghiemtientuantnt),
