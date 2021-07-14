@@ -77,7 +77,7 @@ const aboutMe = {
     ranks: {
         tryHackMe - Rank 37750 (16/05/2021): [tuanlinhchi](https://tryhackme.com/p/tuanlinhchi),
         hackerRank - Rank 386477: [tuanlinhchi](https://www.hackerrank.com/tuanlinhchi),
-        codeSignal - Level 20: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
+        codeSignal - Level 22: [Tuan Nghiem Tien](https://app.codesignal.com/profile/tnt_s),
     },
     share: {
         viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
