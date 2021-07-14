@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180">
 <p><em>Web developer at <a href="https://tda.company">TDA Viet Nam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>Đem ước mơ và hoài bão để tạo ra nhiều giá trị sáng tạo cho một thế giới awesome!</p>
+<p>Tạo ra nhiều giá trị sáng tạo cho một thế giới đơn giản và tuyệt vời hơn!</p>
 <p>Còn thở là còn học.</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
