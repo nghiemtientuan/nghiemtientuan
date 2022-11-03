@@ -23,6 +23,7 @@ const aboutMe = {
             js: [ES6, "Reactjs", "Nextjs", "VueJS"],
             css: ["bootstrap"],
             designs: ["antd", "Material-ui"],
+            test: ['cypress'],
         },
         backEnd: {
             php: ["laravel"],
@@ -91,7 +92,8 @@ const aboutMe = {
         viblo: [Nghiem Tuan](https://viblo.asia/u/TuanLinhChi),
         hashnode: [tuanlinhchi.hashnode.dev](https://tuanlinhchi.hashnode.dev),
     },
-    certifications: [
+    certifications: [],
+    learnCertifications: [
         [Responsive Web Design](https://www.freecodecamp.org/certification/tuanlinhchi/responsive-web-design),
         [JavaScript Algorithms](https://www.freecodecamp.org/certification/tuanlinhchi/javascript-algorithms-and-data-structures),
         [Front End Libraries](https://www.freecodecamp.org/certification/tuanlinhchi/front-end-libraries),
@@ -105,7 +107,7 @@ const aboutMe = {
     },
 };
 ```
-
+<a href="https://app.daily.dev/tuntun"><img src="https://api.daily.dev/devcards/23810f94050a479ca79a16440964485f.png?r=t0u" width="400" alt="TuanLinhChi's Dev Card"/></a>
 <a href="https://app.daily.dev/TuanLinhChi"><img src="https://api.daily.dev/devcards/a1091e92fec245a5be8f0a5d68647038.png?r=wry" width="400" alt="TuanLinhChi's Dev Card"/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
