@@ -41,7 +41,7 @@ const aboutMe = {
     architecture: ["Progressive web applications", "Single page applications"],
     experiences: [
         {
-            name: "LIC - Ly Thai To Colleage",
+            name: "LIC - Ly Thai To College",
             startDate: "06/2024",
             endDate: now(),
             job: "Lecturer",
