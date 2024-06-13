@@ -1,6 +1,6 @@
 <h2> (Tuanlinhchi), I'm Nghiem Tien Tuan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180">
-<p><em>Web developer at <a href="https://tda.company">TDA Viet Nam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>Tạo ra nhiều giá trị sáng tạo cho một thế giới đơn giản và tuyệt vời hơn!</p>
 <p>Còn thở là còn học.</p>
