@@ -78,6 +78,11 @@ const aboutMe = {
             tags: ["Education", "Deployment"]
         },
         {
+            name: "Build an elearning system and integrate personalized learning",
+            openSourse: "Moodle, CAT",
+            tags: ["Education", "Research"]
+        },
+        {
             name: "lunchChatbot",
             openSourse: "Rasa",
             tags: ["TDA contest", "ShopeeFood"]
