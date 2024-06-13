@@ -41,9 +41,15 @@ const aboutMe = {
     architecture: ["Progressive web applications", "Single page applications"],
     experiences: [
         {
+            name: "LIC - Ly Thai To Colleage",
+            startDate: "06/2024",
+            endDate: now(),
+            job: "Lecturer",
+        },
+        {
             name: "TDA VN",
             startDate: "04/2021",
-            endDate: now(),
+            endDate: "06/2024",
             job: "web developer",
         },
         {
@@ -107,6 +113,7 @@ const aboutMe = {
     },
 };
 ```
+<a href="https://app.daily.dev/tuntun"><img src="https://api.daily.dev/devcards/v2/ysX98GVImeCoutjgTTwqG.png?r=95l&type=default" width="356" alt="Nghiêm Tuân's Dev Card"/></a>
 <a href="https://app.daily.dev/tuntun"><img src="https://api.daily.dev/devcards/23810f94050a479ca79a16440964485f.png?r=t0u" width="400" alt="TuanLinhChi's Dev Card"/></a>
 <a href="https://app.daily.dev/TuanLinhChi"><img src="https://api.daily.dev/devcards/a1091e92fec245a5be8f0a5d68647038.png?r=wry" width="400" alt="TuanLinhChi's Dev Card"/></a>
 
