@@ -11,7 +11,7 @@
 const aboutMe = {
     pronouns: "He" | "Him",
     country: "Viet Nam",
-    city: "Ha Noi",
+    city: "Bac Ninh",
     languages: ["Vietnamese", "English"],
     graduatedFrom: "Ha Noi university of science and technology (Hust)",
     studying: "a master's degree at Ha Noi university of science and technology (Hust)",
