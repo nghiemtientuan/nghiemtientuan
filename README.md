@@ -73,6 +73,12 @@ const aboutMe = {
     ],
     freeProjects: [
         {
+            name: "Lic lucky wheel",
+            language: "HTML, CSS, JS",
+            tags: ["Lucky", "Wheel"],
+            release: https://lic-lucky-wheel.onrender.com
+        },
+        {
             name: "BKEdx",
             openSourse: "Open edX",
             tags: ["Education", "Deployment"]
