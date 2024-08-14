@@ -117,6 +117,7 @@ const aboutMe = {
         [Programming for Everybody](https://coursera.org/share/a400c8e75ebce7354480ad0c3e80cea3),
         [Scientific Computing with Python](https://www.freecodecamp.org/certification/tuanlinhchi/scientific-computing-with-python-v7),
         [CEH completion](https://drive.google.com/file/d/1S6wPQMPj6TjY3MC4lJz9wgpBPOTTnqOe/view?usp=sharing),
+        [Google AI Essentials](https://coursera.org/share/10c6a9d8cd3664c98e8101ec6db1bd23)
     ],
     netWorks: {
         fb: [Tuan Linh Chi](https://www.facebook.com/nghiemtientuantnt),
