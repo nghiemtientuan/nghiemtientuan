@@ -41,9 +41,15 @@ const aboutMe = {
     architecture: ["Progressive web applications", "Single page applications"],
     experiences: [
         {
+            name: "Vinschool",
+            startDate: "10/2024",
+            endDate: now(),
+            job: "Edtech Officer",
+        },
+        {
             name: "LIC - Ly Thai To College",
             startDate: "06/2024",
-            endDate: now(),
+            endDate: 12/2024,
             job: "Lecturer",
         },
         {
