@@ -14,7 +14,7 @@ const aboutMe = {
     city: "Bac Ninh",
     languages: ["Vietnamese", "English"],
     graduatedFrom: "Ha Noi university of science and technology (Hust)",
-    studying: "a master's degree at Ha Noi university of science and technology (Hust)",
+    studied: "a master's degree at Ha Noi university of science and technology (Hust)",
     code: ["PHP", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "tech", "adruino"],
     technologies: {
@@ -23,13 +23,14 @@ const aboutMe = {
             js: [ES6, "Reactjs", "Nextjs", "VueJS"],
             css: ["bootstrap"],
             designs: ["antd", "Material-ui"],
-            test: ['cypress'],
+            test: ["cypress"],
         },
         backEnd: {
             php: ["laravel"],
             js: ["node", "express"],
             python: ["django"],
         },
+        cms: ["GLPI"],
         os: ["Window", "Ubuntu", "Kali"],
         devOps: ["Docker🐳", "Apache", "CICD", "Circel CI", "Jenkin"],
         databases: ["MySql", "MongoDB"],
@@ -49,7 +50,7 @@ const aboutMe = {
         {
             name: "LIC - Ly Thai To College",
             startDate: "06/2024",
-            endDate: 12/2024,
+            endDate: "12/2024",
             job: "Lecturer",
         },
         {
@@ -82,7 +83,7 @@ const aboutMe = {
             name: "Lic lucky wheel",
             language: "HTML, CSS, JS",
             tags: ["Lucky", "Wheel"],
-            release: https://lic-lucky-wheel.onrender.com
+            release: "https://lic-lucky-wheel.onrender.com",
         },
         {
             name: "BKEdx",
